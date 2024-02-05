@@ -1,2 +1,1 @@
-# Git-Branching-ABCs
-Git Branching ABCs
+# git-branching-abcs
